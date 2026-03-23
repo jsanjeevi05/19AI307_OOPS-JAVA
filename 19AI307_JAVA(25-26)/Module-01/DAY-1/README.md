@@ -54,8 +54,8 @@ To evaluate these conditions using logical operators and print whether access is
 ## PROGRAM:
  ```
 Program to implement variables and Operators using Java
-Developed by: CHETHAN KUMAR G
-RegisterNumber: 212222240022
+Developed by: SANJEEVI J
+RegisterNumber: 212222110040
 ```
 
 ## Sourcecode.java:
