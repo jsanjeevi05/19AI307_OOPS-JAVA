@@ -33,8 +33,8 @@ To develop a java program to reverse a string.
 ## PROGRAM:
  ```
 Program to implement a Strings and Math Function using Java
-Developed by: CHETHAN KUMAR G
-RegisterNumber: 212222240022
+Developed by: SANJEEVI J
+RegisterNumber: 212222110040
 ```
 
 ## SOURCE CODE:
