@@ -32,8 +32,8 @@ To write a Java program to count how many elements in an array are divisible by 
 ## PROGRAM:
  ```
 Program to implement a Array concept using Java
-Developed by: CHETHAN KUMAR G
-RegisterNumber: 212222240022
+Developed by: SANJEEVI J
+RegisterNumber: 212222110040
 ```
 
 ## SOURCE CODE:
