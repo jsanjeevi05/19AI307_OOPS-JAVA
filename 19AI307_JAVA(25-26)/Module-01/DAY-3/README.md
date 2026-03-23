@@ -38,8 +38,8 @@ To print a left-aligned triangle pattern is a pattern of stars (*) where each ro
 ## PROGRAM:
  ```
 Program to implement a Looping Statement using Java
-Developed by: CHETHAN KUMAR G
-RegisterNumber: 212222240022
+Developed by: SANJEEVI J
+RegisterNumber: 212222110040
 ```
 
 ## SOURCE CODE:
